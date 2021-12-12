@@ -1,0 +1,9 @@
+.kutu {
+    display: block;
+    padding: 1rem;
+    padding-top: 2px;
+    border: 1px;
+    border-style: solid;
+    border-color: #CCCCCC;
+    border-radius: 1rem;
+}
